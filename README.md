@@ -1,12 +1,12 @@
 # ToDoList-App
+
 <!-- By Marvin Joseph -->
 
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- ABOUT -->
+
 ## About
 
 ToDoList App is a simple To-Do web app that developed using NodeJs.
@@ -15,15 +15,15 @@ User can also create custom lists by adding them to the route (example: /School,
 This website is designed to remain simple but powerful.
 
 Stack features:
-* Node provides the backend environment for this application
-* Express middleware is used to handle requests, routes
-* Mongoose schemas to model the application data
-* Embedded JavaScript (EJS) used to create interactive web applications
-<br />
 
-
+- Node provides the backend environment for this application
+- Express middleware is used to handle requests, routes
+- Mongoose schemas to model the application data
+- Embedded JavaScript (EJS) used to create interactive web applications
+  <br />
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is an instructions on setting up your project locally.
@@ -32,12 +32,14 @@ To get a local copy up and running follow these simple example steps.
 <br />
 
 ~ Clone the repo
+
 ```
 $ git clone https://github.com/WizzProject/ToDoList-App.git
 
 ```
 
 ~ Install NPM packages
+
 ```
 $ npm install
 
@@ -54,6 +56,7 @@ ATLAS_URI=mongodb+srv://<USERNAME>:<PASSWORD>@<CLUSTERNAME>.mongodb.net/<YOUR-DB
 ```
 
 ~ Run the project
+
 ```
 $ node app.js
 
@@ -65,16 +68,14 @@ $ node app.js
 
 Happy Hacking! 😁👍
 
-
 <br />
 
-
-
 <!-- SCREENSHOT -->
+
 ## Screenshot
 
 <br />
-<div align="center">
+<div text-align="center">
   <a href="https://github.com/WizzProject/ToDoList-App/blob/main/public/images/screenshot/">
     <img src="public/images/screenshot/Screenshot%20todolist-app%20part-1.png" alt="Screenshot 1" width="800" />
   </a>
@@ -86,15 +87,14 @@ Happy Hacking! 😁👍
   <a href="https://github.com/WizzProject/ToDoList-App/blob/main/public/images/screenshot/">
     <img src="public/images/screenshot/Screenshot%20todolist-app%20part-2.png" alt="Screenshot 2" width="800" />
   </a>
-  <p align="center">
+  <p text-align="center">
     Figure 2. Screenshot 2
   </p>
 </div>
 <br />
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create.
@@ -109,19 +109,17 @@ Don't forget to give the project a star! Thank You!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-<br />
-
-
+   <br />
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 <br />
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/WizzProject/ToDoList-App/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
