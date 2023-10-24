@@ -75,11 +75,11 @@ Happy Hacking! 😁👍
 ## Screenshot
 
 <br />
-<div text-align="center">
+<div align="center">
   <a href="https://github.com/WizzProject/ToDoList-App/blob/main/public/images/screenshot/">
     <img src="public/images/screenshot/Screenshot%20todolist-app%20part-1.png" alt="Screenshot 1" width="800" />
   </a>
-  <p align="center">
+  <p text-align="center">
     Figure 1. Screenshot 1
   </p>
   <br />
