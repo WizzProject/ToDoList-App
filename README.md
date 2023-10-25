@@ -49,7 +49,7 @@ $ npm install
 
 ```env
 PORT=3000
-ATLAS_URI=mongodb+srv://<USERNAME>:<PASSWORD>@<CLUSTERNAME>.mongodb.net/<YOUR-DB-NAME>
+ATLAS_URI=mongodb+srv://<USERNAME>:<PASSWORD>@<CLUSTERNAME>.<CODE>.mongodb.net/<YOUR-DB-NAME>
 
 # You can change the variables according to your needs.
 
