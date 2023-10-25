@@ -20,7 +20,7 @@ Stack features:
 - Express middleware is used to handle requests, routes
 - Mongoose schemas to model the application data
 - Embedded JavaScript (EJS) used to create interactive web applications
-  <br />
+<br />
 
 <!-- GETTING STARTED -->
 
@@ -109,7 +109,7 @@ Don't forget to give the project a star! Thank You!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-   <br />
+<br />
 
 <!-- LICENSE -->
 
